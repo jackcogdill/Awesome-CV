@@ -1,0 +1,41 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Work Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Software Development Intern} % Job title
+    {Faithlife} % Organization
+    {Bellingham, WA} % Location
+    {May – Aug. 2017} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Used C\#, Javascript (React and NodeJS), and CSS to contribute new features and bug fixes to production code on Bible study software `Logos'}
+        \item {Worked alongside a team of senior developers and actively participated in sprint planning meetings}
+        \item {Learned about all aspects of development by getting coffee with over 25 employees from executive, marketing, design, customer service}
+        \item {Worked on a team with a marketer, developer, and another intern for internal hackathon}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Intern, Website and Social Media Department} % Job title
+    {Christ Covenant Church} % Organization
+    {Matthews, NC} % Location
+    {Aug. 2013 – May. 2015} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Used PHP to designe a more organized and dynamic code structure of website menu bar}
+        \item {Used SQL, HTML, and CSS to build an styled interface allowing users to easily navigate database of sermon archives}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
